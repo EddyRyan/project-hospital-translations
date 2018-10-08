@@ -16,12 +16,12 @@
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GREEN_LINE</LocID>      		            <Text>Dicke Farblinie</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE_LINE</LocID>      		            <Text>Dünne Farblinie</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_APRICOT</LocID>                  <Text>Farbige Fliesen</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BEIGE</LocID>                    <Text>Light colored tiles</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BEIGE</LocID>                    <Text>Hellfarbige Fliesen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_TINY</LocID>                     <Text>Kleine weiße Keramikfliesen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED</LocID>               		<Text>Mittelgroße weiße Keramikfliesen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_COLOR</LocID>                <Text>Mittelgroße farbige Fliesen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_AMAZON</LocID>               <Text>Mittelgroße hellfarbige Fliesen</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_FILLED</LocID>      		    	<Text>Fully-colored medium tiles</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_FILLED</LocID>      		    	<Text>Farbige mittelgroße Fliesen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE</LocID>      			            <Text>Weißer Boden</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLACK</LocID>     			            <Text>Schwarzer Boden</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE</LocID>      		            	<Text>Dunkelfarbige Fliese</Text>  </GameDBLocalizedString>
@@ -43,7 +43,7 @@
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONCRETE_BRICK</LocID>                   <Text>Betonfußweg</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_INTERLOCKING_PAWMENT</LocID>             <Text>Verbundfplaster</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS</LocID>                            <Text>Gras</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_DARK</LocID>                       <Text>Dunkles Grad</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GRASS_DARK</LocID>                       <Text>Dunkles Gras</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD</LocID>                             <Text>Straße (Asphalt)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_LINE</LocID>                             <Text>Straße Linie</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_ROAD_DETAIL</LocID>                      <Text>Straßendetails</Text>  </GameDBLocalizedString>
