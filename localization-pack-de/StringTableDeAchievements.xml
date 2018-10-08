@@ -115,9 +115,9 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_1_DESCRIPTION</LocID>                <Text>Beende Level 1.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_2</LocID>                            <Text>Assistenzarzt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_2_DESCRIPTION</LocID>                <Text>Beende Level 2.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_3</LocID>                            <Text>Behandelnder Arzt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_3</LocID>                            <Text>Facharzt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_3_DESCRIPTION</LocID>                <Text>Beende Level 3.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_4</LocID>                            <Text>Facharzt</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_4</LocID>                            <Text>Oberarzt</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_4_DESCRIPTION</LocID>                <Text>Beende Level 4.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_5</LocID>                            <Text>Spezialist</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LEVEL_5_DESCRIPTION</LocID>                <Text>Beende Level 5.</Text>  </GameDBLocalizedString>
